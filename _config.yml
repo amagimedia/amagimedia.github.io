@@ -1,0 +1,123 @@
+url: "http://amagi.com"
+pygments: true
+exclude: [bin, Gemfile, Gemfile.lock,originals]
+markdown: kramdown
+permalink: pretty
+paginate: 10
+
+kramdown:
+  entity_output: symbolic
+
+reach:
+- Karnataka:
+  - Bangalore
+  - Mysore
+  - Belgaum
+  - Davanagere
+  - Hubli - Dharwad
+  - Gulbarga
+- Gujarat:
+  - Ahmedabad
+  - Rajkot
+  - Surat
+  - Vadodara
+  - Anand
+  - Ankleshwar
+  - Banaskanta
+  - Bharuch
+  - Bhuj
+  - Gandhidham
+  - Gandhinagar
+  - Jamnagar
+  - Junagadh
+  - Mehsana
+  - Nadiad
+  - Navsari
+  - Palanpur
+  - Patan
+  - Sabarkanta
+  - Surendranagar
+  - Valsad
+  - Vapi
+  - Veraval
+- Delhi NCR:
+  - Delhi
+- Andhra Pradesh:
+  - Hyderabad
+  - Anantapur
+  - Chittoor
+  - Guntur
+  - Kadapa
+  - Kurnool
+  - Proddatur
+  - Tanuku
+  - Tirupati
+  - Srikalahasti
+  - Warangal
+- West Bengal:
+  - Kolkata
+  - Arambagh
+  - Asansol
+  - Baharampur
+  - Chinchura
+  - Dubrajpur
+  - Durgapur
+  - Hugli
+  - Jalpaiguri
+  - Raiganj
+- Bihar:
+  - Patna
+- Himachal Pradesh:
+  - Shimla
+- Jharkhand:
+  - Ranchi
+  - Dhanbad
+  - Jamshedpur
+- Maharashtra:
+  - Mumbai
+  - Pune
+  - Nagpur
+  - Aurangabad
+  - Baramati
+  - Dombivli
+  - Hingoli
+  - Jalgaon
+  - Jalna
+  - Kolhapur
+  - Latur
+  - Mira Road
+  - Nanded
+  - Nasik
+  - Navi Mumbai/Panvel
+  - Pimpri
+  - Sangli
+  - Satara
+  - Solapur
+  - Ulhasnagar
+- Madhya Pradesh:
+  - Bhopal
+  - Indore
+- Uttar Pradesh:
+  - Kanpur
+- Chhattisgarh:
+  - Raipur
+- Rajasthan:
+  - Jaipur
+- Odisha:
+  - Bhubaneshwar
+  - Balasore
+  - Berhampur
+  - Cuttack
+  - Puri
+  - Rourkela
+  - Sambalpur
+- Haryana:
+  - Gurgaon
+- Punjab:
+  - Chandigarh
+  - Amritsar
+  - Jalandhar
+  - Ludhiana
+  - Rest of Punjab
+
+
