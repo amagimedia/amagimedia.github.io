@@ -336,7 +336,7 @@ a{
 	width:100% !important;
 	position:relative;
 	padding:0;
-	max-height:700px !important;
+	max-height:500px !important;
 	overflow:hidden;
 	border: none!important;
 
@@ -2052,8 +2052,18 @@ footer ul.social-link a:hover{
 
 
 .item {padding-bottom: 30px;}
-
-
+.channel_logos img {
+  width:120px;
+  float: left;
+  margin: 10px;
+  border: 1px solid #fff;
+}
+.channel_logos img:hover {
+  border: 1px solid #ddd;
+}
+.press img {
+  margin: 0;
+}
 
 /* ==========================================================================
    30. Print styles

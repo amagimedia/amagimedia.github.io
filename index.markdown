@@ -12,58 +12,44 @@ title: Amagi Media Labs Pvt. Ltd.
 
   <!-- Start Column --> 		
   <div class="third centered">
-    <div class="icon"><img src="img/icon-ipad.png" alt="Icon" /></div>
     <h2>Channel Partners</h2>
-    <p>Nulla vitae elit libero, a pharetra augue.  Vestibulum id ligula porta  felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+    <div class="channel_logos">
+      <a href="/partners"><img style="margin-top: 0px;" src="/img/amagi/partners/zee_tv.jpg" alt="Zee TV" /></a>
+      <a href="/partners"><img src="/img/amagi/partners/times_now.png" alt="Times Now" /></a>
+      <a href="/partners"><img src="/img/amagi/partners/tensports.jpg" alt="Ten Sports" /></a>
+      <a href="/partners"><img src="/img/amagi/partners/ten_cricket.jpg" alt="Ten Cricket" /></a>
+    </div>
+    <div style="clear: both"></div>
+    <div class="channel_logos">
+      <a href="/partners"><img style="margin-top:25px" src="/img/amagi/partners/cnn_ibn.jpg" alt="CNN IBN" /></a>
+      <a href="/partners"><img src="/img/amagi/partners/nick.png" alt="Nickelodeon" /></a>
+      <a href="/partners"><img src="/img/amagi/partners/disney_utv.png" alt="Disney UTV" /></a>
+    </div>
   </div>
 
   <!-- Start Column -->     
   <div class="third centered">
-    <div class="icon"><img src="img/icon-user.png" alt="Icon" /></div>
     <h2>Advertisers</h2>
-    <p>Pharetra augue.  Vestibulum id ligulalis euismod semper. Cum sociis natoquibuset magnis dis parturient montes, nascetur ridiculus musaecenas sed.</p>
+    <div class="channel_logos">
+      <a href="/advertisers"><img style="margin-top: 20px" src="/img/amagi/advertisers/hul.png" alt="Hindustan Unilever Limited" /></a>
+      <a href="/advertisers"><img src="/img/amagi/advertisers/hcl.png" alt="HCL" /></a>
+      <a href="/advertisers"><img src="/img/amagi/advertisers/lenskart.png" alt="Lenskart" /></a>
+      <a href="/advertisers"><img style="margin-top: 15px;" src="/img/amagi/advertisers/toyota.png" alt="Toyota" /></a>
+      <a href="/advertisers"><img style="margin: 0 10px" src="/img/amagi/advertisers/bluestone.png" alt="BlueStone" /></a>
+      <a href="/advertisers"><img style="margin: 0 10px" src="/img/amagi/advertisers/yepme.png" alt="YepME" /></a>
+      <a href="/advertisers"><img src="/img/amagi/advertisers/dpauls.png" alt="DPauls" /></a>
+    </div>
   </div>
 
   <!-- Start Column -->     
   <div class="third last centered">
-    <div class="icon"><img src="img/icon-book.png" alt="Icon" /></div>
     <h2>In the Press</h2>
-    <p>Vestibulum id ligula porta  felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+    <ul>
+      <li class="press">Amagi is gradually disrupting the conventional wisdom and business model around TV ... - <a href="http://forbesindia.com/printcontent/32588"><img src="/img/amagi/forbes.jpg"/></a></li>
+      <li class="press">Amagi to geo-target HUL ads on Nickelodeon - <a href="http://www.afaqs.com/news/story/38448_Amagi-to-geo-target-HUL-ads-on-Nickelodeon"><img src="/img/amagi/afaqs.jpg" /></a></li>
+      <li class="press">The Amagi business model is a game changer for both media buyers and broadcasters - <a href="http://www.thehindubusinessline.com/todays-paper/tp-brandline/for-efficient-tv-ads/article2202277.ece"><img src="/img/amagi/business_line.gif" /></a></li>
+      <li class="press">A startup is rewriting the rules of Television advertising. - <a href="http://www.financialexpress.com/news/tv-ads-for-rs-100200/1041610/0"><img src="/img/amagi/financial_express.gif" /></a></li>
+    </ul>
   </div>
 </div>
-
-
-<!-- Text Seperator -->
-<div class="text-seperator">
-  <h5>Recent Work</h5>
-</div>
-
-
-<!-- Start Recent Work -->
-<div class="clearfix recentwork">
-  <!-- Start thumbnail -->
-  <div class="mosaic-block fourth fade">
-    <a href="img/mock2.jpg" class="mosaic-overlay fancybox" data-fancybox-group="gallery" title="Insert Your Title"></a>
-    <div class="mosaic-backdrop"><img src="img/mock.jpg" alt="Mock" /></div>
-  </div>
-
-  <!-- Start thumbnail -->		
-  <div class="mosaic-block fourth fade">
-    <a href="img/mock2.jpg" class="mosaic-overlay fancybox" data-fancybox-group="gallery" title="Insert Your Title"></a>
-    <div class="mosaic-backdrop"><img src="img/mock2.jpg" alt="Mock" /></div>
-  </div>
-
-  <!-- Start thumbnail -->		
-  <div class="mosaic-block fourth fade">
-    <a href="img/mock2.jpg" class="mosaic-overlay fancybox" data-fancybox-group="gallery" title="Insert Your Title"></a>
-    <div class="mosaic-backdrop"><img src="img/mock5.jpg" alt="Mock" /></div>
-  </div>
-
-  <!-- Start thumbnail -->		
-  <div class="mosaic-block fourth last fade">
-    <a href="img/mock2.jpg" class="mosaic-overlay fancybox" data-fancybox-group="gallery" title="Insert Your Title"></a>
-    <div class="mosaic-backdrop"><img src="img/mock3.jpg" alt="Mock" /></div>
-  </div>
-</div>
-
 

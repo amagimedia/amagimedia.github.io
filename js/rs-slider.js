@@ -10,7 +10,7 @@ var tpj=jQuery;
 						{
 							delay:6000,
 							startwidth:1440,
-							startheight:700,
+							startheight:500,
 
 							onHoverStop:"on",						// Stop Banner Timet at Hover on Slide on/off
 
