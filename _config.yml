@@ -8,6 +8,18 @@ paginate: 10
 kramdown:
   entity_output: symbolic
 
+quotes:
+- quote: This is a cost-effective way of reaching people. If you want to target people in a region or town, why spend money for spots that are beamed nationally? Instead, you could pay a fraction of that for spots beamed in that particular city.
+  source: Angshu Mallick, chief operating officer, Adani Wilmar
+- quote: Zee has always led the Indian TV industry. By partnering with Amagi, we are once again, making history. We are very happy to tie up with Amagi, and make available a whole new set of targeting options for advertisers.
+  source: Ashish Sehgal, Chief Sales Officer, Zee TV
+- quote: What Amagi offers is exactly what a big client would be interested in, say when they want to test market a product or service in a single geography.
+  source: Pratap Bose, COO, DDB Mudra
+- quote: What sets this outfit apart from the rest of the ad land is the tech backbone it has created...
+  source: Brand Equity
+- quote: Even global broadcasters are talking to Amagi for a piece of action, not of course for India’s MSME ads, but for using its patent-pending technology in various geographies across the planet.
+  source: Financial Express
+
 reach:
 - Karnataka:
   - Bangalore

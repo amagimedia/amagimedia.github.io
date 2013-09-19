@@ -1,25 +1,11 @@
 <!-- Start Quote Slider -->
 <div class="flexslider-quote">
   <ul class="slides">
+    {% for q in site.quotes %}
     <!-- Start Quote -->
-    <li><blockquote>
-      This is a cost-effective way of reaching people. If you want to target people in a region or town, why spend money for spots that are beamed nationally? Instead, you could pay a fraction of that for spots beamed in that particular city.
-    </blockquote>
-    <cite>- Angshu Mallick, chief operating officer, Adani Wilmar</cite></li>
-
-    <!-- Start Quote -->
-    <li><blockquote>
-      Zee has always led the Indian TV industry. By partnering with Amagi, we are once again, making history. We are very happy to tie up with Amagi, and make available a whole new set of targeting options for advertisers.
-    </blockquote>
-    <cite>- Ashish Sehgal, Chief Sales Officer, Zee TV</cite></li>
-
-    <!-- Start Quote -->
-    <li><blockquote>
-      What Amagi offers is exactly what a big client would be interested in, say when they want to test market a product or service in a single geography.
-    </blockquote>
-    <br/>
-    <cite>- Pratap Bose, COO, DDB Mudra</cite>
-    </li>
+    <li style="height:162px"><blockquote>{{q.quote}}</blockquote>
+    <cite>- {{q.source}}</cite></li>
+    {% endfor %}
   </ul>
 </div>
 
