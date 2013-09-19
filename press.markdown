@@ -45,18 +45,18 @@ press:
   {% for item in page.press %}
   <!-- Start Post --> 
   <div class="clearfix">
-    <h1 class="four-fifths right last"><a href="{{item.href}}">{{item.title}}</a></h1>
+    <h1 class="four-fifths right last"><a target="_blank" href="{{item.href}}">{{item.title}}</a></h1>
     <!-- Start Meta -->
     <aside class="left-aside left fifth">
     <ul class="meta">
       <li>{{item.date}}</li>
-      <li><a href="{{item.source_url}}">{{item.source}}</a></li>
+      <li><a target="_blank" href="{{item.source_url}}">{{item.source}}</a></li>
     </ul>	
     </aside> 
     <div class="four-fifths right last">
 
       <p>{{item.summary}}</p>
-      <p><a class="btn" href="{{item.href}}">Read More</a></p>
+      <p><a class="btn" target="_blank" href="{{item.href}}">Read More</a></p>
     </div>
   </div>
 
