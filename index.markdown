@@ -51,6 +51,7 @@ title: Amagi Media Labs Pvt. Ltd.
           <li class="press">Amagi to geo-target HUL ads on Nickelodeon - <a href="http://www.afaqs.com/news/story/38448_Amagi-to-geo-target-HUL-ads-on-Nickelodeon"><img src="/img/amagi/afaqs.jpg" /></a></li>
           <li class="press">The Amagi business model is a game changer for both media buyers and broadcasters - <a href="http://www.thehindubusinessline.com/todays-paper/tp-brandline/for-efficient-tv-ads/article2202277.ece"><img src="/img/amagi/business_line.gif" /></a></li>
           <li class="press">A startup is rewriting the rules of Television advertising. - <a href="http://www.financialexpress.com/news/tv-ads-for-rs-100200/1041610/0"><img src="/img/amagi/financial_express.gif" /></a></li>
+          <li class="press"><a href="/press" style="color:#fc604a">More in press</a></li>
         </ul>
       </div>
 
