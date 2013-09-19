@@ -95,6 +95,12 @@ YES, that is very much possible. In fact, that is a unique option with amagi whe
       </div>
       </li>
 
+      <li>
+      <a href='/faqs#' class='toggle-btn'>I want a telemarketing slot? </a>
+      <div class='toggle-content'>
+        <p>We currently do not offer telemarketing slots. Leave us your contact details and we will get in touch with you if we have that option, going forward.</p>
+      </div>
+      </li>
     </ul>
     
   </div>
