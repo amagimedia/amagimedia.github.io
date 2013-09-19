@@ -47,7 +47,7 @@ navigation: faqs
       </div>
       </li>
 
-<li>
+      <li>
       <a href='/faqs#' class='toggle-btn'>Do you have Genre–wise bouquet for a broader target audience?</a>
       <div class='toggle-content'>
         <p>Yes. Amagi offers the right mix of general entertainment, movies, sports, lifestyle and news channels.
