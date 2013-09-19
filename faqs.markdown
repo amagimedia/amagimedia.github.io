@@ -54,7 +54,19 @@ navigation: faqs
          We provide the best of reach and frequency channels for best delivery.</p>
       </div>
       </li>
+      
+      <li>
+      <a href='/faqs#' class='toggle-btn'>How can i monitor my ads?</a>
+      <div class='toggle-content'>
+        <p>We provide the following to enable easy monitoring of the planned schedule</p>
+          <p>-	Telecast certificate</p>
+          <p>-	Live recording samples</p>
+          <p>-	Schedule </p>
+          <p>-	As run </p>
+          <p>-	SMS updates</p>
 
+      </div>
+      </li>
 
       <li>
       <a href='/faqs#' class='toggle-btn'>I don't have a creative. What do I do?</a>
