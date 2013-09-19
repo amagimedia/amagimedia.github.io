@@ -36,13 +36,13 @@ navigation: faqs
       <div class='toggle-content'>
         <p>We are seeing that beyond regional advertisers, our platform significantly benefits corporate advertisers as well.
         We now work with a number of large advertisers offering them regional targeting solution. Examples of needs that we can address:
-        - Regional brand advertising
-        - Consumer / Trade Promotions
-        - Booster / Top ups
-        - Urban and Rural focus
-        - Launch support to brand variants
-        - Dealer-tagged Advertisements
-        - BTL support </p>
+        <p>- Regional brand advertising</p>
+        <p>- Consumer / Trade Promotions</p>
+        <p>- Booster / Top ups</p>
+        <p>- Urban and Rural focus</p>
+        <p>- Launch support to brand variants</p>
+        <p>- Dealer-tagged Advertisements</p>
+        <p>- BTL support </p>
       </div>
       </li>
 
