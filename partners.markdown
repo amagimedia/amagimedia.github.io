@@ -17,7 +17,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        TEN Sports is an Indian sports channel owned and operated by Zee Network. TEN Sports was launched on April 1, 2002, and became the world's premier sports channel for South Asians. 
+        TEN Sports is an Indian sports channel owned and operated by Zee Network. TEN Sports was launched on April 1, 2002, and became the premier sports channel for South Asians. 
       </div>
     </div>
 
