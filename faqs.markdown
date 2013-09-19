@@ -68,6 +68,13 @@ navigation: faqs
       </div>
       </li>
 
+<li>
+      <a href='/faqs#' class='toggle-btn'>Is the ad delivery measurable? </a>
+      <div class='toggle-content'>
+        <p>MYes, We are in the realm of A/c Nielsen TAM , we can provide the relevant measure for the targeted market selected.</p>
+      </div>
+      </li>
+
       <li>
       <a href='/faqs#' class='toggle-btn'>I don't have a creative. What do I do?</a>
       <div class='toggle-content'>
