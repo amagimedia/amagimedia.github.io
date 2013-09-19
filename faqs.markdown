@@ -71,7 +71,7 @@ navigation: faqs
 <li>
       <a href='/faqs#' class='toggle-btn'>Is the ad delivery measurable? </a>
       <div class='toggle-content'>
-        <p>MYes, We are in the realm of A/c Nielsen TAM , we can provide the relevant measure for the targeted market selected.</p>
+        <p>Yes, We are in the realm of A/c Nielsen TAM , we can provide the relevant measure for the targeted market selected.</p>
       </div>
       </li>
 
