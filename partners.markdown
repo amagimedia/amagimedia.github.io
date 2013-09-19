@@ -70,15 +70,7 @@ navigation: partners
       </div>
     </div>
 
-    <div class="item clearfix">
-      <div class="fourth">
-        <img src="/img/amagi/partners/all_maa_tv_logo.png" alt="Maa TV" />
-      </div>
 
-      <div class="three-fourths last">
-        MAA TV is a leading Telugu TV Channel network known for its vibrant, innovative, pleasant and interactive programming. MAA Television Network Limited as a corporate entity was formed in the year 2001 and the main GEC channel MAA was launched in the year 2002. The second channel MAA Music was launched in 2008. With the launch of MAA Movies in February 2011 and MAA Gold in February 2012, MAA TV has emerged as a major Telugu Television network with a bouquet of four channels. At amagi, we have tied up with Maa Movies and Maa Music.
-      </div>
-    </div>
 
     <div class="item clearfix">
       <div class="fourth">
