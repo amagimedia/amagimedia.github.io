@@ -43,6 +43,7 @@ navigation: faqs
         <p>- Launch support to brand variants</p>
         <p>- Dealer-tagged Advertisements</p>
         <p>- BTL support </p>
+        <p>We believe all advertisers at some level need targeted television be it national / regional brands.</p>
       </div>
       </li>
 
