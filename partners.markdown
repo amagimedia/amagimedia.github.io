@@ -79,7 +79,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        Zoom is part of Bennett, Coleman &amp; Co. Limited, India's most respected media conglomerate – The Times Group. The 168-year-old group is a market driver across all media platforms including media brands like The Times Of India, The Economic Times, Radio Mirchi, Times Now , ET Now and Femina.
+        Zoom is part of Bennett, Coleman &amp; Co. Limited, India's most respected media conglomerate – The Times Group. 
       </div>
     </div>
 
@@ -92,7 +92,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        TATA Sky is a direct broadcast satellite television provider in India, using MPEG-2 and MPEG-4 digital compression technology. Incorporated in 2004, Tata Sky is a JV between the TATA Group and STAR. It is a joint venture between the Tata Sons, that owns 80% and STAR India that owns a 20% stake. Tata Sky was incorporated in 2004 but was launched only in 2006. It currently offers close to 196 channels (as of December 2010).
+        TATA Sky is a direct broadcast satellite television provider in India. Incorporated in 2004, Tata Sky is a JV between the TATA Group and STAR. It currently offers close to 196 channels (as of December 2010).
       </div>
     </div>
 
