@@ -23,11 +23,27 @@ navigation: faqs
         <p>Like any other advertiser, amagi buys space from the channel. Once we buy a particular spot we slice it region-wise and sell the same spot to different advertisers in different regions. We don't replace any national ads but only the ad space which we have purchased. In such a way, no content/ad gets replaced.</p>
       </div>
       </li>
-
+      
       <li>
       <a href='/faqs#' class='toggle-btn'>Are these ad spots or scrolls? </a>
       <div class='toggle-content'>
         <p>These are regular video ad spots that appear during commercial breaks on TV channels. They are not scrolls.</p>
+      </div>
+      </li>
+
+      <li>
+      <a href='/faqs#' class='toggle-btn'>Who are the advertisers who can benefit from targeted television? </a>
+      <div class='toggle-content'>
+        <p>We are seeing that beyond regional advertisers, our platform significantly benefits corporate advertisers as well.
+        We now work with a number of large advertisers offering them regional targeting solution. Examples of needs that we can address:
+        <p>- Regional brand advertising</p>
+        <p>- Consumer / Trade Promotions</p>
+        <p>- Booster / Top ups</p>
+        <p>- Urban and Rural focus</p>
+        <p>- Launch support to brand variants</p>
+        <p>- Dealer-tagged Advertisements</p>
+        <p>- BTL support </p>
+        <p>We believe all advertisers at some level need targeted television be it national / regional brands.</p>
       </div>
       </li>
 
@@ -95,6 +111,7 @@ YES, that is very much possible. In fact, that is a unique option with amagi whe
       </div>
       </li>
 
+      
     </ul>
     
   </div>
