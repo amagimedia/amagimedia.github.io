@@ -47,7 +47,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        IBN-7 (Indian Broadcast Network) is a Hindi news television channel owned by Network 18 Ltd based in Mumbai. IBN-7 (Hindi) - formerly Channel 7 was acquired from Jagran TV, owned by the Dainik Jagran group of companies, in 2006 and rebranded IBN-7. IBN-7 is the Hindi news channel of IBN18 Broadcast Limited, which is part of Network 18, India's growing media conglomerate.
+        IBN7 (Indian Broadcast Network) is a Hindi news television channel owned by Network 18 Ltd based in Mumbai. 
       </div>
     </div>
 
@@ -57,7 +57,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        CNN-IBN is a partnership between Global Broadcast News (GBN), a Network18 Company, and Turner International (Turner) in India. The 24-hour, English-language news channel is spearheaded by renowned television journalist Rajdeep Sardesai as the Editor-in-Chief. He is backed in the venture by the strong foundation of Network18's newsgathering experience and infrastructure in India and bolstered by CNN's eminent and extensive global news network. CNN-IBN serves robust and high quality news from every corner of India and relevant global news from CNN, the world's news leader.
+        CNN-IBN is a partnership between Global Broadcast News (GBN), a Network18 Company, and Turner International (Turner) in India. The 24-hour, English-language news channel is spearheaded by renowned television journalist Rajdeep Sardesai as the Editor-in-Chief. 
       </div>
     </div>
 
@@ -67,7 +67,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        UTV Movies is a Hindi movie channel in India based in Mumbai, Maharashtra and is owned by UTV. It airs blockbuster Bollywood films from UTV's own library as well as other major movie studios in India. UTV is amongst the few Indian entertainment companies which have a well diversified business portfolio from content production to movie production &amp; distribution to TV broadcasting. Zoom: Zoom is part of Bennett, Coleman &amp; Co. Limited, India's most respected media conglomerate – The Times Group. The 168-year-old group is a market driver across all media platforms including media brands like The Times Of India, The Economic Times, Radio Mirchi, Times Now , ET Now and Femina.
+        UTV Movies is a Hindi movie channel in India based in Mumbai, Maharashtra and is owned by UTV. It airs blockbuster Bollywood films from UTV's own library as well as other major movie studios in India.  Zoom: Zoom is part of Bennett, Coleman &amp; Co. Limited, India's most respected media conglomerate – The Times Group. The 168-year-old group is a market driver across all media platforms including media brands like The Times Of India, The Economic Times, Radio Mirchi, Times Now , ET Now and Femina.
       </div>
     </div>
 
