@@ -17,7 +17,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        TEN Sports (or Taj Entertainment Network) is an Indian sports channel owned and operated by Zee Network. TEN Sports was launched on April 1, 2002, and became the world's premier sports channel for South Asians. Its portfolio consists of the Ten Sports, Ten Cricket, Ten Action and Ten Golf channels, digital studio facilities and integrated transmission services for various broadcast clients.
+        TEN Sports is an Indian sports channel owned and operated by Zee Network. TEN Sports was launched on April 1, 2002, and became the world's premier sports channel for South Asians. 
       </div>
     </div>
 
@@ -27,7 +27,7 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        TIMES NOW is a Leading 24-hour English News channel that provides the Urbane viewers the complete picture of the news that is relevant, presented in a vivid and insightful manner, which enables them to widen their horizons & stay ahead. TIMES NOW is brought to you by Times Global Broadcasting Co. Ltd., a Bennett, Coleman & Co service. They operate out of Mumbai, with presence in 15 other cities through Bureaus and Offices, complemented by the news gathering teams of The Times of India and The Economic Times.
+        TIMES NOW is a Leading 24-hour English News channel that provides the Urbane viewers the complete picture of the news that is relevant, presented in a vivid and insightful manner, which enables them to widen their horizons & stay ahead. TIMES NOW is brought to you by Times Global Broadcasting Co. Ltd., a Bennett, Coleman & Co service. 
       </div>
     </div>
 
