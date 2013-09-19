@@ -21,12 +21,6 @@ press:
   href: http://entrepreneurindia.in/start-ups/amagi-is-redefining-television-advertising/20972/
   source: entrepreneurindia
   source_url: http://entrepreneurindia.in
-- date: 07 Dec, 2012
-  title: TV ads for Rs 100-200
-  summary: This is the equivalent of walking barefoot into a citadel of the filthy rich. A little known start-up has barged into the big boys club of TV advertising, and is threatening to break open the door to the masses of micro, small and medium enterprises. The four-year-old outfit, named Amagi Media Lab, already does half a million seconds of advertising a month on various TV channels, and is the largest customer of many broadcasters, ahead of the likes of a Hindustan Unilever or a P&G.
-  href: http://www.financialexpress.com/news/tv-ads-for-rs-100200/1041610/0
-  source: financialexpress
-  source_url: http://www.financialexpress.com
 - date: 25 May, 2012
   title: Multiply TV ad inventory
   summary: Only thing that is constant in the TV land today is change. In the next few years, the TV industry of India will look far different from what it is today.  The big drivers for this change are digitisation drive by the government, ushering in of HD channels and rationalisation in terms of advertising and content time that is being driven by TRAI.
