@@ -82,16 +82,6 @@ navigation: partners
       </div>
     </div>
 
-    <div class="item clearfix">
-      <div class="fourth">
-        <img src="/img/amagi/partners/Uday_all_logo.png" alt="Udaya TV" />
-      </div>
-
-      <div class="three-fourths last">
-        Udaya TV is a regional Kannada language Indian cable television station. It is also the very first Kannada satellite channel in India. The channel is part of the Chennai based Sun Network of Tamil Nadu. Udaya TV is telecasted in several nations including India, Sri Lanka, Singapore, Malaysia and the USA.
-At amagi, we have tied up with Udaya Movies and Udaya Music
-      </div>
-    </div>
 
     <hr/>
     <h2>Our DTH Partner</h2>
