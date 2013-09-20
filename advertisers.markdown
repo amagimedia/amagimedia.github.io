@@ -9,7 +9,7 @@ navigation: advertisers
 
     <h2>Our Clients</h2>
 
-    <p>Some of our clients who have used targeted television.<b>Click on logos to view ads</b> </p>
+    <p>Some of our esteemed clients who have used amagi targeted television solutions.<b>Click on logos to view ads</b> </p>
     <div id="client_container1">
       <div> 
         <a href="http://www.youtube.com/watch?v=zfU40_3ejqA" target="_blank"><img src="/img/amagi/clients_icon_07.jpg" alt="" /></a> 
