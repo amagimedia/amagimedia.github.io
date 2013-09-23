@@ -12,7 +12,7 @@ navigation: faqs
       <li>
       <a href='/faqs#' class='toggle-btn'>Do you have permission from TV channels to do this?</a>
       <div class='toggle-content'>
-        <p>Yes. amagi has partnered with various TV networks/channels and it is a joint initiative to sell channel space to regional advertisers thereby benefitting them to come on a national platform.</p>
+        <p>Yes. amagi has partnered with various TV networks/channels and it is a joint initiative to splice channel adspace to enable regional advertising on a national platform.</p>
       </div>
       </li>
       <!-- Toggle -->
@@ -24,15 +24,10 @@ navigation: faqs
       </div>
       </li>
       
-      <li>
-      <a href='/faqs#' class='toggle-btn'>Are these ad spots or scrolls? </a>
-      <div class='toggle-content'>
-        <p>These are regular video ad spots that appear during commercial breaks on TV channels. They are not scrolls.</p>
-      </div>
-      </li>
+      
 
       <li>
-      <a href='/faqs#' class='toggle-btn'>Who are the advertisers who can benefit from targeted television? </a>
+      <a href='/faqs#' class='toggle-btn'>What are the benefits of targeted television? </a>
       <div class='toggle-content'>
         <p>We are seeing that beyond regional advertisers, our platform significantly benefits corporate advertisers as well.
         We now work with a number of large advertisers offering them regional targeting solution. Examples of needs that we can address:
@@ -47,14 +42,34 @@ navigation: faqs
       </div>
       </li>
 
-<li>
+      <li>
       <a href='/faqs#' class='toggle-btn'>Do you have Genre–wise bouquet for a broader target audience?</a>
       <div class='toggle-content'>
         <p>Yes. Amagi offers the right mix of general entertainment, movies, sports, lifestyle and news channels.
          We provide the best of reach and frequency channels for best delivery.</p>
       </div>
       </li>
+      
+      <li>
+      <a href='/faqs#' class='toggle-btn'>What is the proof of ad delivery ?</a>
+      <div class='toggle-content'>
+        <p>We provide the following to enable easy monitoring of the planned schedule</p>
+          <p>-	Telecast certificate</p>
+          <p>-	Live recording samples</p>
+          <p>-	Schedule </p>
+          <p>-	As run </p>
+          <p>-	SMS updates</p>
 
+      </div>
+      </li>
+
+<li>
+      <a href='/faqs#' class='toggle-btn'> How to measure campaigns ? </a>
+      <div class='toggle-content'>
+        <p>Yes, We are in the realm of A/c Nielsen TAM , we can provide the relevant measure for the targeted market selected.
+        amagi gives logs of campaign in the same format as TAM.</p>
+      </div>
+      </li>
 
       <li>
       <a href='/faqs#' class='toggle-btn'>I don't have a creative. What do I do?</a>
@@ -63,13 +78,7 @@ navigation: faqs
       </div>
       </li>
 
-      <li>
-      <a href='/faqs#' class='toggle-btn'>I already have a creative? Will you take it? </a>
-      <div class='toggle-content'>
-        <p>Most definitely. You just made our job a lot easier! J We take multiple formats of video including DigiBeta, Beta, DV Cam and Mini DV in tape format. In digital format, we can work with .mov, .mp4 and .avi.</p>
-      </div>
-      </li>
-
+     
       <li>
       <a href='/faqs#' class='toggle-btn'>Will I get primetime spot? </a>
       <div class='toggle-content'>
@@ -86,9 +95,9 @@ YES, that is very much possible. In fact, that is a unique option with amagi whe
       </li>
 
       <li>
-      <a href='/faqs#' class='toggle-btn'>Do you have a limit for secondages?</a>
+      <a href='/faqs#' class='toggle-btn'>Do you have a limit for creative duration? What about secondages do you have a limit ?</a>
       <div class='toggle-content'>
-        <p>Ads with a minimum duration of 10 seconds going up to a limit of 1 min are acceptable. There is no limit on the total secondages that a client may wish to consume.</p>
+        <p>Ads with a minimum duration of 15 seconds going up to a limit of 30 seconds are acceptable. There is no limit on the total secondages that a client may wish to consume.</p>
       </div>
       </li>
 
@@ -102,25 +111,11 @@ YES, that is very much possible. In fact, that is a unique option with amagi whe
       <li>
       <a href='/faqs#' class='toggle-btn'>Can you reach DTH Homes alone? </a>
       <div class='toggle-content'>
-        <p>Clients have the option of choosing DTH separately or Set top box cable separately or both together, depending on their requirements.</p>
+        <p>Clients have the option of choosing within DTH.</p>
+        <p>Clients can take Tata sky on a channel seperately from Amagi or a combination of all other DTH excluding Tata sky on that channel.</p>
       </div>
       </li>
 
-      <li>
-      <a href='/faqs#' class='toggle-btn'>I am an Ad agency. Can I work with you?</a>
-      <div class='toggle-content'>
-        <p>Yes. We already have a lot of agencies working with us.</p>
-      </div>
-      </li>
-
-      <li>
-      <a href='/faqs#' class='toggle-btn'>I want a telemarketing slot? </a>
-      <div class='toggle-content'>
-        <p>We currently do not offer telemarketing slots. Leave us your contact details and we will get in touch with you if we have that option, going forward.</p>
-      </div>
-      </li>
-
-      
     </ul>
     
   </div>

@@ -60,7 +60,6 @@ clients:
         <a href="{{c.video}}" data-fancybox-type="iframe" data-fancybox-height="480" class="fancybox fancybox.iframe" title="{{c.title}}" style="">
           <img style="max-width:120px;max-height:120px;" src="{{c.image}}" alt="{{c.title}}" />
         </a>
-        <!--<div class="mosaic-backdrop"><img src="{{c.image}}" alt="{{c.title}}" /></div>-->
       </div>
       {% endfor %}
     </div>

@@ -104,12 +104,22 @@ title: What We Offer
         <h3 class="v_nav v_active" data-tab="tab4">Tab 4</h3>
         <div id="tab4" class="tab_content clearfix">
           <h2>How it Works?</h2>
-          <p>amagi is one of the largest ad-space buyers of the channels we associate with. We buy spots in these TV channels and have developed the technology to splice them city/region wise.</p>
-          <p>For all you techno junkies, here is the low-down on our technology:</p>
+          <p>amagi media has developed proprietary, patent-pending technology which enables automatic AV-recognition based ad-splicing. 
+          This is world’s first and only AV watermark and fingerprint-based targeted ad-insertion technology. Features include: </p>
+          <p>-	Specific ads on the same channel to be replaced with different ads in different regions</p>
+          <p>-	On-screen elements including graphics, bugs, scrolls, bands etc. to be dynamically replaced/inserted at a regional level based on automatic recognition of content</p>
+          <p>-	Works across cable, terrestrial, IP and DTH platforms</p>
+          <p>-	Automatic ad-recognition-based targeted ad insertion</p>
+          <p>-	Based on audio-video signature matching and watermarking</p>
+          <p>-	With ZERO integration needed on broadcaster-end</p>
+          <p>-	Multiple ad transports for targeted ads(IP, satellite spectrum)</p>
+          <p>-	Seamless transition from national ads to targeted ads and back</p>
+
+
           <ul class="indent">
-            <li>amagi's unique patent-pending technology allows seamless local ad insertion on any satellite TV channel.</li>
-            <li>amagi works with TV channels to get specific TV ad spots which are used by amagi to insert local/regional ads. amagi's systems at the  cable operators headends can insert specific local ads for each region/city in a completely automated and seamless fashion.</li>
-            <li>amagi has agreements with TV channels and  cable operators to make this happen.</li>
+            <li>In India where consumers’ preferences are diverse, companies have built products/offerings to address specific regional requirements. But till recently, these companies did not have an option to market their products regionally  on TV due to lack of viable media options; national TV was inefficient due to the inherent spill-over that comes along with broadcasting.</li>
+            <li>amagi comes into play to solve this seemingly never ending tussle between a brand’s requirement and the media options available for a marketer. With Amagi, Advertisers select regions where they want to advertise on large  TV channels thereby improving the efficiency and effectiveness of the campaign.</li>
+            <li>amagi has more than 1000 installations and has live systems across 3 continents working with multiple broadcasters and has been inserted tens of millions of ad/content secondages across geographies.</li>
           </ul>
         </div>
 
