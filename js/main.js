@@ -5,7 +5,7 @@ $(document).ready(function() {
 	
 	
   // Responsive Menu.js
-  		$('#nav-wrap').prepend('<div id="menu-icon"><span><img src="img/hamburger@2x.png"/></span>Menu</div>');
+  		$('#nav-wrap').prepend('<div id="menu-icon"><span><img src="/img/hamburger@2x.png"/></span>Menu</div>');
   		$("#menu-icon").on("click", function(){
   			$("#nav").slideToggle('medium', function() {
   			    if ($('#nav').is(':visible'))
@@ -86,7 +86,7 @@ $(this).toggleClass("active");
 	// Isotope.js	 
 	   var $container = $('#thumb-gallery');
 	     
-	       $container.isotope({
+	       /*$container.isotope({
 	         masonry: {
 	           columnWidth: 1 //was 26
 	         },
@@ -104,7 +104,7 @@ $(this).toggleClass("active");
 	             return itemText.text();
 	           }
 	         }
-	       });
+	       });*/
 	     
 	       
 	       var $optionSets = $('.meta.option-set'),

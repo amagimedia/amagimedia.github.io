@@ -93,7 +93,7 @@
 			},
 			iframe : {
 				scrolling : 'auto',
-				preload   : true
+				preload   : false
 			},
 			swf : {
 				wmode: 'transparent',
@@ -137,7 +137,7 @@
 			tpl: {
 				wrap     : '<div class="fancybox-wrap" tabIndex="-1"><div class="fancybox-skin"><div class="fancybox-outer"><div class="fancybox-inner"></div></div></div></div>',
 				image    : '<img class="fancybox-image" src="{href}" alt="" />',
-				iframe   : '<iframe id="fancybox-frame{rnd}" name="fancybox-frame{rnd}" class="fancybox-iframe" frameborder="0" vspace="0" hspace="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen' + (IE ? ' allowtransparency="true"' : '') + '></iframe>',
+				iframe   : '<iframe id="fancybox-frame{rnd}" name="fancybox-frame{rnd}" class="fancybox-iframe" frameborder="0" vspace="0" hspace="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen height=100%' + (IE ? ' allowtransparency="true"' : '') + '></iframe>',
 				error    : '<p class="fancybox-error">The requested content cannot be loaded.<br/>Please try again later.</p>',
 				closeBtn : '<a title="Close" class="fancybox-item fancybox-close" href="javascript:;"></a>',
 				next     : '<a title="Next" class="fancybox-nav fancybox-next" href="javascript:;"><span></span></a>',
@@ -1003,6 +1003,7 @@
 				F.showLoading();
 
 				iframe.one('load', function() {
+          console.log('iframe loaded');
 					$(this).data('ready', 1);
 
 					// iOS will lose scrolling if we resize
@@ -1022,6 +1023,7 @@
 			coming.content = iframe.appendTo( coming.inner );
 
 			if (!coming.iframe.preload) {
+					$(this).data('ready', 1);
 				F._afterLoad();
 			}
 		},
@@ -1134,7 +1136,8 @@
 			}
 
 			if (!(isQuery(content) && content.parent().is(current.inner))) {
-				current.inner.append( content );
+        //TODO : Temp hack to not append iframe incorrectly
+				//current.inner.append( content );
 			}
 
 			// Give a chance for helpers or callbacks to update elements
@@ -1260,6 +1263,7 @@
 			width  = getScalar( origWidth );
 			height = getScalar( origHeight );
 
+      console.log('1. width: '+width+' height: '+height);
 			ratio  = origWidth / origHeight;
 
 			// Calculations for the content
@@ -1361,6 +1365,7 @@
 				width += scrollOut;
 			}
 
+      console.log('2. width: '+width+' height: '+height);
 			inner.width( width ).height( height );
 
 			wrap.width( width + wPadding );
