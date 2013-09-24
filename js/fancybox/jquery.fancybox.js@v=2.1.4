@@ -1003,7 +1003,6 @@
 				F.showLoading();
 
 				iframe.one('load', function() {
-          console.log('iframe loaded');
 					$(this).data('ready', 1);
 
 					// iOS will lose scrolling if we resize
@@ -1023,7 +1022,7 @@
 			coming.content = iframe.appendTo( coming.inner );
 
 			if (!coming.iframe.preload) {
-					$(this).data('ready', 1);
+					//$(this).data('ready', 1);
 				F._afterLoad();
 			}
 		},
@@ -1263,7 +1262,6 @@
 			width  = getScalar( origWidth );
 			height = getScalar( origHeight );
 
-      console.log('1. width: '+width+' height: '+height);
 			ratio  = origWidth / origHeight;
 
 			// Calculations for the content
@@ -1365,7 +1363,6 @@
 				width += scrollOut;
 			}
 
-      console.log('2. width: '+width+' height: '+height);
 			inner.width( width ).height( height );
 
 			wrap.width( width + wPadding );
