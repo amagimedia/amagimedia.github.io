@@ -2104,3 +2104,6 @@ div.partners .fourth {
 div.partners .fourth img {
   margin: 0;
 }
+img.largebutton {
+  max-width: 190px;
+}

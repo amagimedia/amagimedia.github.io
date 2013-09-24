@@ -13,11 +13,11 @@ title: What We Offer
 
       <!-- Navigation for Tabs -->
       <ul class="tab-nav img-tab left">
-        <li data-tab="tab1" class="active"><img src="/img/amagi/largeicon1.png" alt="" class="largebutton" ></li>
-        <li data-tab="tab2" class=""><img src="/img/amagi/largeicon2.png" alt="" class="largebutton" ></li>
-        <li data-tab="tab3" class=""><img src="/img/amagi/largeicon3.png" alt="" class="largebutton" ></li>
-        <li data-tab="tab4" class=""><img src="/img/amagi/largeicon4.png" alt="" class="largebutton" ></li>
-        <li data-tab="tab5" class=""><img src="/img/amagi/largeicon5.png" alt="" class="largebutton" ></li>
+        <li data-tab="tab1" class="active"><img src="/img/amagi/What.jpg" alt="" class="largebutton" ></li>
+        <li data-tab="tab2" class=""><img src="/img/amagi/Who.jpg" alt="" class="largebutton" ></li>
+        <li data-tab="tab3" class=""><img src="/img/amagi/Why.jpg" alt="" class="largebutton" ></li>
+        <li data-tab="tab4" class=""><img src="/img/amagi/How.jpg" alt="" class="largebutton" ></li>
+        <li data-tab="tab5" class=""><img src="/img/amagi/Where.jpg" alt="" class="largebutton" ></li>
       </ul>
 
 
