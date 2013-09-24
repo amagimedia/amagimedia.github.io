@@ -2054,7 +2054,7 @@ footer ul.social-link a:hover{
 
 .item {padding-bottom: 30px;}
 .channel_logos img {
-  width:120px;
+  /*width:120px;*/
   float: left;
   margin: 10px;
   border: 1px solid #fff;
@@ -2095,4 +2095,12 @@ img { max-width: 100% !important; page-break-inside: avoid; }
 @page { margin: 0.5cm; }
 p, h2, h3 { orphans: 3; widows: 3; }
 h2, h3 { page-break-after: avoid; }
+}
+
+div.partners .fourth {
+  text-align: center;
+}
+
+div.partners .fourth img {
+  margin: 0;
 }

@@ -4,12 +4,41 @@ title: Partners
 navigation: partners
 ---
 <div class="main-content">
-  <div class="clearfix">
+  <div class="clearfix partners">
     <h1>Partnering for success</h1>
     <p>amagi partners with TV networks, cable operators and DTH operators to enable Targeted TV advertising. </p>
 
     <h2>Our Broadcast Partners</h2>
 
+    <div class="item clearfix">
+      <div class="fourth">
+        <img src="/img/amagi/partners/partners_zee_tv.jpg" alt="Zee TV" />
+      </div>
+
+      <div class="three-fourths last">
+      Zee TV, the flagship channel of Zee Entertainment Enterprises LTD was launched in October 1992. Nearly two decades since its launch, Zee TV has driven the growth of the satellite and cable industry in India. The popularity of Zee arises from its understanding of Indian culture and beliefs which are depicted in its programming.
+      </div>
+    </div>
+
+    <div class="item clearfix">
+      <div class="fourth">
+        <img src="/img/amagi/partners/zee-news.png" alt="Zee News" />
+      </div>
+
+      <div class="three-fourths last">
+      Zee News, is an Indian news and current affairs channel founded in 1999. Zee News is a part of Zee News Ltd (ZNL), which is itself a part of Essel Group.
+      </div>
+    </div>
+
+    <div class="item clearfix">
+      <div class="fourth">
+        <img src="/img/amagi/partners/zee-business.png" alt="Zee Business" />
+      </div>
+
+      <div class="three-fourths last">
+      Zee Business is a Hindi business news channel based in Mumbai, India.
+      </div>
+    </div>
 
     <div class="item clearfix">
       <div class="fourth">
