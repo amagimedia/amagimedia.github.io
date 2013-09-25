@@ -103,15 +103,13 @@ navigation: partners
       </div>
     </div>
 
-    <div class="item clearfix">
+    <div class="item clearfix">zo
       <div class="fourth">
         <img src="/img/amagi/partners/partners_09.png" alt="UTV Movies" />
       </div>
 
       <div class="three-fourths last">
-        UTV Movies is a Hindi movie channel in India based in Mumbai, Maharashtra and is owned by UTV. It airs blockbuster Bollywood films from UTV's own library as well as other major movie studios in India.  Zoom: Zoom is part of Bennett, Coleman &amp; Co. Limited, India's most respected media conglomerate – The Times Group.
-        The 168-year-old group is a market driver across all media platforms including media brands like The Times Of India, The Economic Times, Radio Mirchi, Times Now , ET Now and Femina.
-      </div>
+        UTV Movies is a Hindi movie channel in India based in Mumbai, Maharashtra and is owned by UTV. It airs blockbuster Bollywood films from UTV's own library as well as other major movie studios in India. 
     </div>
 
 
@@ -122,7 +120,9 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        Zoom is part of Bennett, Coleman &amp; Co. Limited, India's most respected media conglomerate – The Times Group. 
+        Zoom is part of Bennett, Coleman &amp; Co. Limited, India's most respected media conglomerate – The Times Group.
+        The 168-year-old group is a market driver across all media platforms including media brands like The Times Of India, The Economic Times, Radio Mirchi, Times Now , ET Now and Femina.
+      </div> 
       </div>
     </div>
 
