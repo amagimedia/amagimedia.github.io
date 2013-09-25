@@ -52,7 +52,7 @@ clients:
 
     <h2>Our Clients</h2>
 
-    <p>Take a look at our proud clients.<b>Click on logos to view ads</b> </p>
+    <p>Some of our valued advertisers are displayed below.<b>Click on logos to view ads</b> </p>
 
     <div>
       {% for c in page.clients %}
