@@ -40,6 +40,7 @@ navigation: partners
 
       <div class="three-fourths last">
       Zee Business is a Hindi business news channel based in Mumbai, India.
+      Their tagline "Money Matters Simplified" is a reflection of their content approach to business news. 
       </div>
     </div>
 
@@ -50,6 +51,7 @@ navigation: partners
 
       <div class="three-fourths last">
         TEN Sports is an Indian sports channel owned and operated by Zee Network.
+        Ten Sports own long term broadcast rights for five cricket boards - South Africa,West Indies, Zimbabwe, Pakistan and Sri Lanka, offering its viewers the best of sports action round the clock
         TEN Sports was launched on April 1, 2002, and became the premier sports channel for South Asians. 
       </div>
     </div>
@@ -61,6 +63,7 @@ navigation: partners
 
       <div class="three-fourths last">
         TIMES NOW is a Leading 24-hour English News channel that provides the Urbane viewers the complete picture of the news that is relevant, presented in a vivid and insightful manner, which enables them to widen their horizons & stay ahead.
+        Arnab Goswami is the Editor-in Chief and a hosts the fiery news hour , one of the most watched news shows in the country.  
         TIMES NOW is brought to you by Times Global Broadcasting Co. Ltd., a Bennett, Coleman & Co service. 
       </div>
     </div>
@@ -82,7 +85,9 @@ navigation: partners
       </div>
 
       <div class="three-fourths last">
-        IBN7 (Indian Broadcast Network) is a Hindi news television channel owned by Network 18 Ltd based in Mumbai. 
+        IBN7 (Indian Broadcast Network) is a Hindi news television channel owned by Network 18 Ltd based in Mumbai.
+        Ashutosh, the Managing Editor of the channel. 
+        IBN7 has launched several initiatives like IBN7 Diamond States Awards, IBN7 Super Idols, Zindagi LIVE Awards, Citizen Journalist Awards, Young Indian Leaders, Guru Shishya Awards etc.
       </div>
     </div>
 
@@ -93,6 +98,7 @@ navigation: partners
 
       <div class="three-fourths last">
         CNN-IBN is a partnership between Global Broadcast News (GBN), a Network18 Company, and Turner International (Turner) in India.
+        Rajdeep Sardesai is the Editor-in-Chief, his flagship show on CNN-IBN, India at 9, was awarded the Best News Show at the Asian Television Awards, 2010.
         The 24-hour, English-language news channel is spearheaded by renowned television journalist Rajdeep Sardesai as the Editor-in-Chief. 
       </div>
     </div>
