@@ -371,7 +371,7 @@ h2{
 	margin-top: 15px;
 }
 h2:after, .tp-caption.heading:after{
-	content: ".";
+	/*content: ".";*/
 	font-size: 66px;
 	line-height: 0;
 }
@@ -2106,4 +2106,7 @@ div.partners .fourth img {
 }
 img.largebutton {
   max-width: 190px;
+}
+aside ul.contact li{
+  color: #000;
 }
