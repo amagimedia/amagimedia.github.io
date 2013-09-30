@@ -31,7 +31,7 @@ title: Amagi Media Labs Pvt. Ltd.
 
       <!-- Start Column -->     
       <div class="third centered">
-        <h2>Advertisers</h2>
+        <h2>Brand in action</h2>
         <div class="channel_logos">
           <a href="/advertisers"><img style="margin-top: 20px" src="/img/amagi/advertisers/hul.png" alt="Hindustan Unilever Limited" /></a>
           <a href="/advertisers"><img src="/img/amagi/advertisers/hcl.png" alt="HCL" /></a>
