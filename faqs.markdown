@@ -63,13 +63,6 @@ navigation: faqs
       </div>
       </li>
 
-<li>
-      <a href='/faqs#' class='toggle-btn'> How to measure campaigns ? </a>
-      <div class='toggle-content'>
-        <p>Yes, We are in the realm of A/c Nielsen TAM , we can provide the relevant measure for the targeted market selected.
-        amagi gives logs of campaign in the same format as TAM.</p>
-      </div>
-      </li>
 
       <li>
       <a href='/faqs#' class='toggle-btn'>I don't have a creative. What do I do?</a>
