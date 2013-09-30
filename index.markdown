@@ -14,7 +14,7 @@ title: Amagi Media Labs Pvt. Ltd.
 
       <!-- Start Column --> 		
       <div class="third centered">
-        <h2>Channel Partners</h2>
+        <h2>TV Channel Partners</h2>
         <div class="channel_logos">
           <a href="/partners"><img style="margin-top: 0px;" src="/img/amagi/partners/zee_tv.jpg" alt="Zee TV" /></a>
           <a href="/partners"><img src="/img/amagi/partners/times_now.png" alt="Times Now" /></a>
