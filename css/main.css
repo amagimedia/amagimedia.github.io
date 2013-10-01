@@ -108,7 +108,8 @@ strong, b, .lead, .main table th, blockquote, .more, .cta a, .tweet, ul.paginati
 }
 
 h6.tags a, .meta, .meta a, aside ul li a, aside ul li, .widget-footer .tweet:before, .text-seperator h5, .boxed ul.social-link a{
-	color: #cacaca;
+	color: #4a4a4a;
+  font-weight: bold;
 }
 hr, hr.dash, hr.dots, .right-aside, blockquote.right, .widget-footer, .widget-footer .fourth.widget, fieldset, .main table, .main table th, .main table td, .main ul.meta li,
 .recentwork, .text-seperator, .tab-nav li.active, .tab-content-block, .tab-nav li, ul.toggle li, .boxed ul.social-link{
@@ -1191,7 +1192,7 @@ select, input[type=radio], input[type=checkbox] {
 	margin-bottom: .5em;
 }
 .boxed{
-	background: #e9eaec;
+	background: #fff;
 	margin-bottom: 2em;
 }
 .boxed img{
@@ -1386,6 +1387,7 @@ ul.tab-nav li:hover {
 }
 ul.tab-nav li.active {
 	z-index:50;
+  color: #333;
 	border: none;
 	background: #fbfbfb;
 	border-style: solid;

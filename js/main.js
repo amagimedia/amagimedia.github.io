@@ -39,6 +39,7 @@ $(document).ready(function() {
 	
 // CleanTabs.js	
 $(".tab-container").cleanTabs(); 
+$(".tab-container2").cleanTabs(); 
 
 	
 // Accordian	  

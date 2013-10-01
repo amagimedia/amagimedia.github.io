@@ -14,7 +14,7 @@ title: What We Offer
       <!-- Navigation for Tabs -->
       <ul class="tab-nav img-tab left">
         <li data-tab="tab1" class="active"><img src="/img/amagi/What.jpg" alt="" class="largebutton" ></li>
-        <li data-tab="tab2" class=""><img src="/img/amagi/Who.jpg" alt="" class="largebutton" ></li>
+        <!--<li data-tab="tab2" class=""><img src="/img/amagi/Who.jpg" alt="" class="largebutton" ></li>-->
         <li data-tab="tab3" class=""><img src="/img/amagi/Why.jpg" alt="" class="largebutton" ></li>
         <li data-tab="tab4" class=""><img src="/img/amagi/How.jpg" alt="" class="largebutton" ></li>
         <li data-tab="tab5" class=""><img src="/img/amagi/Where.jpg" alt="" class="largebutton" ></li>
@@ -72,6 +72,7 @@ title: What We Offer
         </div>
 
         <!-- Tab Content -->
+        <!--
         <h3 class="v_nav v_active" data-tab="tab2">Tab 2</h3>
         <div id="tab2" class="tab_content clearfix">
           <h2>Who is it for?</h2>
@@ -79,6 +80,7 @@ title: What We Offer
           <p>amagi is for any enterprise that wants to take its business to the next level. We are offering a media solution that is easy on the pocket, and yet ensures maximum visibility.</p>
           <p>More than 1000 advertisers have used the amagi platform to dramatically increase the return on their investments.</p>
         </div>
+        -->
 
         <!-- Tab Content -->
         <h3 class="v_nav v_active" data-tab="tab3">Tab 3</h3>
@@ -104,23 +106,34 @@ title: What We Offer
         <h3 class="v_nav v_active" data-tab="tab4">Tab 4</h3>
         <div id="tab4" class="tab_content clearfix">
           <h2>How it Works?</h2>
+          <img class="" src="/img/amagi/how_it_works.png" />
           <p>amagi media has developed proprietary, patent-pending technology which enables automatic AV-recognition based ad-splicing. 
           This is world’s first and only AV watermark and fingerprint-based targeted ad-insertion technology. Features include: </p>
-          <p>-	Specific ads on the same channel to be replaced with different ads in different regions</p>
-          <p>-	On-screen elements including graphics, bugs, scrolls, bands etc. to be dynamically replaced/inserted at a regional level based on automatic recognition of content</p>
-          <p>-	Works across cable, terrestrial, IP and DTH platforms</p>
-          <p>-	Automatic ad-recognition-based targeted ad insertion</p>
-          <p>-	Based on audio-video signature matching and watermarking</p>
-          <p>-	With ZERO integration needed on broadcaster-end</p>
-          <p>-	Multiple ad transports for targeted ads(IP, satellite spectrum)</p>
-          <p>-	Seamless transition from national ads to targeted ads and back</p>
-
-
           <ul class="indent">
-            <li>In India where consumers’ preferences are diverse, companies have built products/offerings to address specific regional requirements. But till recently, these companies did not have an option to market their products regionally  on TV due to lack of viable media options; national TV was inefficient due to the inherent spill-over that comes along with broadcasting.</li>
-            <li>amagi comes into play to solve this seemingly never ending tussle between a brand’s requirement and the media options available for a marketer. With Amagi, Advertisers select regions where they want to advertise on large  TV channels thereby improving the efficiency and effectiveness of the campaign.</li>
-            <li>amagi has more than 1000 installations and has live systems across 3 continents working with multiple broadcasters and has been inserted tens of millions of ad/content secondages across geographies.</li>
+            <li>Specific ads on the same channel to be replaced with different ads in different regions</li>
+            <li>On-screen elements including graphics, bugs, scrolls, bands etc. to be dynamically replaced/inserted at a regional level based on automatic recognition of content</li>
+            <li>Works across cable, terrestrial, IP and DTH platforms</li>
+            <li>Automatic ad-recognition-based targeted ad insertion</li>
+            <li>Based on audio-video signature matching and watermarking</li>
+            <li>With ZERO integration needed on broadcaster-end</li>
+            <li>Multiple ad transports for targeted ads(IP, satellite spectrum)</li>
+            <li>Seamless transition from national ads to targeted ads and back</li>
           </ul>
+
+
+          <p>In India where consumers’ preferences are diverse, companies have built products/offerings to address specific regional requirements. But till recently, these companies did not have an option to market their products regionally  on TV due to lack of viable media options; national TV was inefficient due to the inherent spill-over that comes along with broadcasting.</p>
+
+          <p>amagi comes into play to solve this seemingly never ending tussle between a brand’s requirement and the media options available for a marketer. With Amagi, Advertisers select regions where they want to advertise on large  TV channels thereby improving the efficiency and effectiveness of the campaign.</p>
+
+          <p>Amagi’s platform (named DART) allows completely seamless replacement of specific ad spots/content on digital and analog platforms without any apriori knowledge of broadcaster schedules or out-of-band signalling like cue-tones or SCTE-35. It is an end-to-end platform including:</p>
+          <ul class="indent">
+            <li>backend ingest, scheduling &amp; billing systems to enable centralized scheduling of local content across hundreds or thousands of regional splits</li>
+            <li>cloud-based distribution system to distribute content and local schedules across all regions</li>
+            <li>broadcaster-end watermarking server which can watermark assets being broadcast and automatically distribute signatures to cloud platform </li>
+            <li>edge-based device that can seamlessly recognize and splice local content/ads into the TV stream</li>
+          </ul>
+
+          <p>amagi has more than 1000 installations and has live systems across 3 continents working with multiple broadcasters and has been inserted tens of millions of ad/content secondages across geographies.</p>
         </div>
 
         <!-- Tab Content -->

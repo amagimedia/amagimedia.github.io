@@ -36,7 +36,7 @@ title: Amagi Media Labs Pvt. Ltd.
           <a href="/advertisers"><img style="margin-top: 20px" src="/img/amagi/advertisers/hul.png" alt="Hindustan Unilever Limited" /></a>
           <a href="/advertisers"><img src="/img/amagi/advertisers/hcl.png" alt="HCL" /></a>
           <a href="/advertisers"><img src="/img/amagi/advertisers/lenskart.png" alt="Lenskart" /></a>
-          <a href="/advertisers"><img style="margin-top: 15px;" src="/img/amagi/advertisers/toyota.png" alt="Toyota" /></a>
+          <a href="/advertisers"><img style="margin-top: 15px;" src="/img/amagi/advertisers/honda.jpg" alt="Honda" /></a>
           <a href="/advertisers"><img style="margin: 0 10px" src="/img/amagi/advertisers/bluestone.png" alt="BlueStone" /></a>
           <a href="/advertisers"><img style="margin: 0 10px" src="/img/amagi/advertisers/yepme.png" alt="YepME" /></a>
           <a href="/advertisers"><img src="/img/amagi/advertisers/dpauls.png" alt="DPauls" /></a>
