@@ -2,6 +2,37 @@
 layout: default
 title: advertisers
 navigation: advertisers
+hulbrands:
+- image: /img/amagi/advertisers/vim.jpg
+  video: http://player.vimeo.com/video/75466489
+  title: VIM Double Dhamaka
+- image: /img/amagi/advertisers/tresemme.jpg
+  video: http://player.vimeo.com/video/75466488
+  title: TRESemme Diana Satchet
+- image: /img/amagi/advertisers/pepsodent.jpg
+  video: http://player.vimeo.com/video/75466483
+  title: Pepsodent Toothpaste
+- image: /img/amagi/advertisers/pureit.jpg
+  video: http://player.vimeo.com/video/75466480
+  title: PureIT Water Purifier
+- image: /img/amagi/advertisers/pears.jpg
+  video: http://player.vimeo.com/video/75466478
+  title: Pears Soap
+- image: /img/amagi/advertisers/lifebuoy.jpg
+  video: http://player.vimeo.com/video/75466477
+  title: LifeBuoy Soap
+- image: /img/amagi/advertisers/knorr.png
+  video: http://player.vimeo.com/video/75466476
+  title: Knorr Soup
+- image: /img/amagi/advertisers/kissan.jpg
+  video: http://player.vimeo.com/video/75466475
+  title: Kissan Tomato Ketchup
+- image: /img/amagi/advertisers/huggies.jpg
+  video: http://player.vimeo.com/video/75466473
+  title: Huggies Wonder Pants
+- image: /img/amagi/advertisers/domex.jpg
+  video: http://player.vimeo.com/video/75466466
+  title: Domex
 clients:
 - image: /img/amagi/advertisers/hcl.png
   video: http://player.vimeo.com/video/74912298
@@ -50,12 +81,12 @@ clients:
   <div class="clearfix">
     <h1>Advertisers</h1>
 
-    <h2>Our Clients</h2>
+    <p>Amagi hosts wide range of customers from small &amp; medium business to large national advertisers. Take a look at some of the adverisers using Amagi's platform.
+    <p><b>Click on logos to view ads</b> </p>
 
-    <p>Some of our advertisers are displayed below.<b>Click on logos to view ads</b> </p>
-
-    <div>
-      {% for c in page.clients %}
+    <h2>HUL Brands</h2>
+    <div class="clearfix">
+      {% for c in page.hulbrands %}
       <div style="text-align:center;float:left;width:200px;height:200px;line-height:200px;">
         <a href="{{c.video}}" data-fancybox-type="iframe" data-fancybox-height="480" class="fancybox fancybox.iframe" title="{{c.title}}" style="">
           <img style="max-width:120px;max-height:120px;" src="{{c.image}}" alt="{{c.title}}" />
@@ -64,6 +95,16 @@ clients:
       {% endfor %}
     </div>
 
+    <h2>Other Advertisers</h2>
+    <div class="clearfix">
+      {% for c in page.clients %}
+      <div style="text-align:center;float:left;width:200px;height:200px;line-height:200px;">
+        <a href="{{c.video}}" data-fancybox-type="iframe" data-fancybox-height="480" class="fancybox fancybox.iframe" title="{{c.title}}" style="">
+          <img style="max-width:120px;max-height:120px;" src="{{c.image}}" alt="{{c.title}}" />
+        </a>
+      </div>
+      {% endfor %}
+    </div>
 
   </div>
 </div>
