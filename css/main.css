@@ -141,6 +141,10 @@ hr, hr.dash, hr.dots, .right-aside, blockquote.right, .widget-footer, .widget-fo
 .logo img, .logo-foot img{
 	width: 100%;
 }   
+.header {
+  background-color: #555;
+}
+
 .header-container nav{
 	float: right;
 	margin-top: 10px;
@@ -151,7 +155,9 @@ hr, hr.dash, hr.dots, .right-aside, blockquote.right, .widget-footer, .widget-fo
 	margin: 0 .4em;
 }
 .nav a{
+  color: #eee;
 	text-transform: uppercase;
+  font-weight: bold;
 	white-space: nowrap;
 	-webkit-transition: all 250ms ease-in-out;
 	-moz-transition: all 250ms ease-in-out;
