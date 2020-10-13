@@ -28,7 +28,6 @@ title: Join Us
             <li><a href="#embedded">Embedded software</a></li>
             <li><a href="#web_backend">Server side software</a></li>
             <li><a href="#internet_ui">Internet UI software</a></li>
-            <li><a href="#headend_engineer">Headend Engineer</a></li>
           </ol>
 
           <p>The general mindset required for working with amagi’s engineering team:</p>
