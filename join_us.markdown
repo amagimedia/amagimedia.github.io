@@ -13,8 +13,6 @@ title: Join Us
       <!-- Navigation for Tabs -->
       <ul class="tab-nav left">
         <li data-tab="tab1" class="active">Engineering</li>
-        <li data-tab="tab2" class="">Sales</li>
-        <li data-tab="tab3" class="">Traffic</li>
       </ul>
 
 
