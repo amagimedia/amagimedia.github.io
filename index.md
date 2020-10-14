@@ -4,4 +4,4 @@ The following section contains links to documentation for issue analysis and res
 
 ### DEVICE ISSUES
 
-1. [Player Restart](https://vinodkumarpr.github.io/CLOUDPORT/player_restart)
+1. [Player Restart](https://amagimedia.github.io/player_restart)
